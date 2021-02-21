@@ -14,4 +14,4 @@ I'm a computer science student who is passionate about artificial intelligence, 
 - 👯  I’m looking for a software development internship for Summer 2021. 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/dmunechika) | [Email](mailto:david.munechika@gatech.edu)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmunechika&show_icons=true&theme=dark)
+<!--![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmunechika&show_icons=true&theme=dark) -->
