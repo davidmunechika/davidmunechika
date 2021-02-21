@@ -13,3 +13,5 @@ I'm a computer science student who is passionate about artificial intelligence, 
 - 🔬  I have research experience developing deep learning algorithms at the Rochester Institute of Technology as well as using Python for data analysis, goespatial visualizations, and natural language processing at Harvard University.
 - 👯  I’m looking for a software development internship for Summer 2021. 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/dmunechika) | [Email](mailto:david.munechika@gatech.edu)
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmunechika&show_icons=true&theme=radical)
