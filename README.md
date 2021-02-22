@@ -6,7 +6,7 @@
 
 I'm a computer science student who is passionate about artificial intelligence, software engineering, and social entrepreneurship.
 
-- 🔭  I’m currently a CS major and Stamps President's Scholar at the Georgia Institute of Technology.
+- 🐝  I’m currently a CS major and Stamps President's Scholar at the Georgia Institute of Technology.
 - 💻  I have experience building web applications as a full-stack developer in a team environment, using technologies and frameworks such as React.js, Node.js, Express.js, MongoDB, and Git.
 - 💪  I have strong proficiencies in both object-oriented and scripting programming languages such as Java, JavaScript, and Python. 
 - 📚  I’m currently learning mobile app development using Flutter, Dart, and Firebase.
