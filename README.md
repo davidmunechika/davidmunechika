@@ -11,7 +11,7 @@ I'm a computer science student who is passionate about artificial intelligence, 
 - 💪  I have strong proficiencies in both object-oriented and functional programming languages such as Java, JavaScript, Python, and Elixir. 
 - 📚  I’m currently working as a Software Engineering Intern at Cypress.
 - 🔬  I have research experience developing deep learning algorithms at the Rochester Institute of Technology, using Python for NLP and goespatial visualizations at Harvard University, and studying model bias mitigation through interactive visual auditing at the Georgia Institute of Technology.
-- 👯  I’m looking for a software development internship for Summer 2022. 
+- 👯  I’m looking for a software development internship for Fall 2022. 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/dmunechika) | [Email](mailto:david.munechika@gatech.edu)
 
 <!--![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmunechika&show_icons=true&theme=dark) -->
