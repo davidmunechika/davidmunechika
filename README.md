@@ -7,9 +7,9 @@
 I'm a computer science student who is passionate about artificial intelligence, software engineering, and social entrepreneurship.
 
 - 🐝  I’m currently a second-year CS major and Stamps President's Scholar at the Georgia Institute of Technology.
-- 💻  I have experience building web applications as a full-stack developer in a team environment, using technologies and frameworks such as React.js, Node.js, Phoenix, MongoDB, Firebase, and Git.
-- 💪  I have strong proficiencies in both object-oriented and functional programming languages such as Java, JavaScript, Python, and Elixir. 
-- 📚  I’m currently working as a Software Engineering Intern at Cypress.
+- 💻  I have experience building web applications as a full-stack developer in an agile team environment. My past internships have been at [Stord](https://www.stord.com/) and [Cypress](https://www.cypress.io/).
+- 💪  I have strong proficiencies in both object-oriented and functional programming languages such as Java, JavaScript/Typescript, Python, and Elixir. 
+- 📚  I’m currently working as a Software Engineering Intern at Amazon.
 - 🔬  I have research experience developing deep learning algorithms at the Rochester Institute of Technology, using Python for NLP and goespatial visualizations at Harvard University, and studying model bias mitigation through interactive visual auditing at the Georgia Institute of Technology.
 - 👀  I’m looking for a software development internship for Summer 2023. 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/dmunechika) | [Email](mailto:david.munechika@gatech.edu)
