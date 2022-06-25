@@ -1,5 +1,4 @@
-<h1 align = "center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
-, I'm David Munechika!
+<h1 align = "center">Hi there, I'm David Munechika!
 </h1>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
