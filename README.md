@@ -6,7 +6,7 @@
 I'm a computer science student who is passionate about artificial intelligence, software engineering, and social entrepreneurship.
 
 - 🐝  I’m currently a third-year CS major and Stamps President's Scholar at the Georgia Institute of Technology.
-- 💻  I have experience building web applications as a full-stack developer in an agile team environment. My past internships have been at [Stord](https://www.stord.com/), [Cypress](https://www.cypress.io/).
+- 💻  I have experience building web applications as a full-stack developer in an agile team environment. My past internships have been at [Stord](https://www.stord.com/) and [Cypress](https://www.cypress.io/).
 - 💪  I have strong proficiencies in both object-oriented and functional programming languages such as Java, JavaScript/Typescript, Python, and Elixir. 
 - 📚  I’m currently working as a Software Development Engineer Intern at Amazon.
 - 🔬  I have research experience developing deep learning algorithms at the Rochester Institute of Technology, using Python for NLP and goespatial visualizations at Harvard University, and studying model bias mitigation through interactive visual auditing at the Georgia Institute of Technology.
